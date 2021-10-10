@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leogaudin
 - 👀 I’m interested in pretty much everything
-- 🌱 I’m currently learning Communication and Media, along with 
+- 🌱 I’m currently learning Communication and Media
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: at leogaudinoff@gmail.com
 
