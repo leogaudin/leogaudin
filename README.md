@@ -21,11 +21,11 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
   <br><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogaudin" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogaudin&theme=transparent" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=leogaudin&show_icons=true&theme=transparent&show_owner=true&include_all_commits=true" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leogaudin&theme=transparent" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leogaudin" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leogaudin&theme=transparent" />
 </p>
