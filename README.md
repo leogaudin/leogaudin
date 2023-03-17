@@ -1,9 +1,6 @@
 # 🖥️ GitHub de Léo
 <p align="center" width="100%">
   <img src="https://wakatime.com/badge/user/db0e5671-cec5-4e7b-9d41-19a881e67f7d.svg" />
-  <br>
-  <img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social" />
-  <img src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999" />
   <br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
