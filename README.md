@@ -1,4 +1,4 @@
-# GitHub de Léo
+# 🖥️ GitHub de Léo
 <div style="text-align:center">
   
 [![wakatime](https://wakatime.com/badge/user/db0e5671-cec5-4e7b-9d41-19a881e67f7d.svg)](https://wakatime.com/@db0e5671-cec5-4e7b-9d41-19a881e67f7d)
