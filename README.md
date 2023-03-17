@@ -1,7 +1,5 @@
 # 🖥️ GitHub de Léo
-<p align="left" width="100%">
-  
-[![wakatime](https://wakatime.com/badge/user/db0e5671-cec5-4e7b-9d41-19a881e67f7d.svg)](https://wakatime.com/@db0e5671-cec5-4e7b-9d41-19a881e67f7d)
+<p align="center" width="100%">
 
 <img src="https://wakatime.com/badge/user/db0e5671-cec5-4e7b-9d41-19a881e67f7d.svg" />
   
