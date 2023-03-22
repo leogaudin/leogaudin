@@ -2,6 +2,7 @@
 <p align="center" width="100%">
   <img src="https://wakatime.com/badge/user/db0e5671-cec5-4e7b-9d41-19a881e67f7d.svg" />
   <br><br>
+  <h2>💼 Compétences</h2>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -14,10 +15,12 @@
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />
   <br><br>
+  <h2>💼 Autres compétences</h2>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
   <br><br><br>
+  <h2>📊 Statistiques</h2>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leogaudin&theme=transparent" />
   <br><br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leogaudin&show_icons=true&theme=transparent&show_owner=true&include_all_commits=true" />
