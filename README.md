@@ -1,5 +1,5 @@
 # 🖥️ GitHub de Léo
-<p align="center" width="100%">
+<div align="center">
   <img src="https://wakatime.com/badge/user/db0e5671-cec5-4e7b-9d41-19a881e67f7d.svg" />
   <br><br>
   <h2>💼 Compétences</h2>
