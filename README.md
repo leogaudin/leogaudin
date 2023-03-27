@@ -20,5 +20,5 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leogaudin&theme=transparent" />
   <br><br>
-  // <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leogaudin&theme=transparent" />
+  /* <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leogaudin&theme=transparent" /> */
 </p>
