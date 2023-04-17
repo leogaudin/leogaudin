@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" />
   <br><br><br>
   <h2>📊 Statistiques</h2>
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgknzb5v000608laffhwm2zo/stats?cursusId=9&coalitionId=216" alt="lgaudin's 42 stats" /></a>
-  <br><br>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgknzb5v000608laffhwm2zo/stats?cursusId=21&coalitionId=275" alt="lgaudin's 42 stats" /></a>
+<br><br>
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgknzb5v000608laffhwm2zo/stats?cursusId=9&coalitionId=216" alt="lgaudin's 42 stats" /></a>
   <br><br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leogaudin&theme=transparent" />
