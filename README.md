@@ -1,6 +1,6 @@
 # 🖥️ GitHub de Léo
 <div align="center">
-  <img src="https://wakatime.com/badge/user/db0e5671-cec5-4e7b-9d41-19a881e67f7d.svg" />
+  <img src="https://wakatime.com/badge/user/db0e5671-cec5-4e7b-9d41-19a881e67f7d.svg"/>
   <br><br>
   <img src="https://img.shields.io/badge/LAMP-777BB4?style=flat&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/MERN-20232A?style=flat&logo=react&logoColor=61DAFB" />
