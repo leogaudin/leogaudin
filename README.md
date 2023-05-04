@@ -2,8 +2,8 @@
 <div align="center">
   <img src="https://wakatime.com/badge/user/db0e5671-cec5-4e7b-9d41-19a881e67f7d.svg"/>
   <br><br>
-  ---
-  ## 🌐 Languages
+  <hr>
+  <h2>🌐 Languages</h2>
   <img src="https://img.shields.io/badge/LAMP-777BB4?style=flat&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/MERN-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -14,15 +14,14 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" />
   <br><br><br>
-  ---
-  ## 42
+  <hr>
+  <h2>42</h2>
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgknzb5v000608laffhwm2zo/stats?cursusId=21&coalitionId=275" alt="lgaudin's 42 stats" /></a>
   <br><br>
   <a href="https://github.com/leogaudin/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
 <a href="https://github.com/leogaudin/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
 <a href="https://github.com/leogaudin/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
-
-  ---
+  <hr>
   ## 📊 Statistics
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leogaudin&theme=transparent" />
   <br><br>
