@@ -18,9 +18,9 @@
   <h2>42</h2>
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgknzb5v000608laffhwm2zo/stats?cursusId=21&coalitionId=275" alt="lgaudin's 42 stats" /></a>
   <br><br>
-  <a href="https://github.com/leogaudin/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
-<a href="https://github.com/leogaudin/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
-<a href="https://github.com/leogaudin/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
+  <a href="https://github.com/leogaudin/libft"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" /></a>
+<a href="https://github.com/leogaudin/get_next_line"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png" /></a>
+<a href="https://github.com/leogaudin/ft_printf"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png" /></a>
   <hr>
   ## 📊 Statistics
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leogaudin&theme=transparent" />
