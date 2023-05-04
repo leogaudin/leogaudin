@@ -22,7 +22,7 @@
 <a href="https://github.com/leogaudin/get_next_line"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png" /></a>
 <a href="https://github.com/leogaudin/ft_printf"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png" /></a>
   <hr>
-  ## 📊 Statistics
+  <h2>📊 Statistics</h2>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leogaudin&theme=transparent" />
   <br><br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leogaudin&show_icons=true&theme=transparent&show_owner=true&include_all_commits=true" />
