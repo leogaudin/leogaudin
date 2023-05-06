@@ -27,6 +27,7 @@
   <a href="https://github.com/leogaudin/libft"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" /></a>
   <a href="https://github.com/leogaudin/get_next_line"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png" /></a>
   <a href="https://github.com/leogaudin/ft_printf"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png" /></a>
+  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png" />
 </p>
 
 ## 📈 Stats
