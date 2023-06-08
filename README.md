@@ -9,6 +9,8 @@
 
 ### Skills I currently have
 <p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/UNIX-000000?style=flat&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
