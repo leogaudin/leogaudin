@@ -7,8 +7,8 @@
 
 ## 💻 Technologies & Tools
 
+<h3 align="center">Skills I currently have</h3>
 <p align="center">
-  <h3>Skills I currently have</h3>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </p>
+<h3 align="center">Skills I am currently learning</h3>
 <p align="center">
-  <h3>Skills I am currently learning</h3>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile%20App%20Dev-0C84C5?style=flat&logo=android&logoColor=white" />
 </p>
