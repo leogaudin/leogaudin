@@ -43,6 +43,7 @@
   <a href="https://github.com/leogaudin/ft_printf"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png" /></a>
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png" />
   <a href="https://github.com/leogaudin/push_swap"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" /></a>
+  <a href="https://github.com/leogaudin/minitalk"><img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalke.png" /></a>
 </p>
 
 ## 📈 Stats
