@@ -35,9 +35,6 @@
 
 ## 🚀 42
 <p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgknzb5v000608laffhwm2zo/stats?cursusId=21&coalitionId=275" alt="lgaudin's 42 stats" /></a>
-</p>
-<p align="center">
   <a href="https://github.com/leogaudin/libft">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp" />
   </a>
@@ -57,6 +54,9 @@
   <a href="https://github.com/leogaudin/fract-ol">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol_bonus.webp" />
   </a>
+</p>
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgknzb5v000608laffhwm2zo/stats?cursusId=21&coalitionId=275" alt="lgaudin's 42 stats" /></a>
 </p>
 
 ## 📈 Stats
