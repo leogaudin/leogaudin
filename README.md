@@ -29,6 +29,7 @@
 </p>
 <h3 align="center">👨🏻‍🏫 Skills I am currently learning</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile%20App%20Dev-0C84C5?style=flat&logo=android&logoColor=white" />
 </p>
