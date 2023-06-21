@@ -43,7 +43,7 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp" />
   </a>
   <a href="https://github.com/leogaudin/ft_printf">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf_bonus.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp" />
   </a>
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp" />
   <a href="https://github.com/leogaudin/push_swap">
