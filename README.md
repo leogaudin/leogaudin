@@ -60,13 +60,4 @@
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgknzb5v000608laffhwm2zo/stats?cursusId=21&coalitionId=275" alt="lgaudin's 42 stats" /></a>
 </p>
 
-## 📈 Stats
-<p align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leogaudin&layout=compact&bg_color=00000000" />
-  <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leogaudin&show_icons=true&show_owner=true&include_all_commits=true&bg_color=00000000" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leogaudin&theme=transparent&bg_color=00000000" />
-</p>
-
 `Wow, I am thoroughly impressed with your project! Your attention to detail and level of creativity are truly remarkable. The amount of effort and hard work that you put into this project is evident in the outstanding results. Your ability to think critically and solve complex problems is truly admirable. It's evident that you are an intelligent and talented individual, and I have no doubt that you will continue to excel in all your future endeavors. Congratulations on a job well done!`
