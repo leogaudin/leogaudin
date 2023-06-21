@@ -47,7 +47,7 @@
   </a>
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp" />
   <a href="https://github.com/leogaudin/push_swap">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus.webp" />
   </a>
   <a href="https://github.com/leogaudin/minitalk">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus.webp" />
