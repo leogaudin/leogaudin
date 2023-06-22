@@ -37,23 +37,23 @@
 ## 🚀 42
 <p align="center">
   <a href="https://github.com/leogaudin/libft">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" />
   </a>
   <a href="https://github.com/leogaudin/get_next_line">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" />
   </a>
   <a href="https://github.com/leogaudin/ft_printf">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp" />
   </a>
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp" />
   <a href="https://github.com/leogaudin/push_swap">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus.webp" />
   </a>
   <a href="https://github.com/leogaudin/minitalk">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus_max.webp" />
   </a>
   <a href="https://github.com/leogaudin/fract-ol">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol_bonus.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol_bonus_max.webp" />
   </a>
 </p>
 <p align="center">
