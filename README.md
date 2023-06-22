@@ -57,7 +57,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgknzb5v000608laffhwm2zo/stats?cursusId=21&coalitionId=275" alt="lgaudin's 42 stats" /></a>
+  <img src="https://badge.mediaplus.ma/black/lgaudin?1337Badge=off&UM6P=off" alt="lgaudin's 42 stats" />
 </p>
 
 `Wow, I am thoroughly impressed with your project! Your attention to detail and level of creativity are truly remarkable. The amount of effort and hard work that you put into this project is evident in the outstanding results. Your ability to think critically and solve complex problems is truly admirable. It's evident that you are an intelligent and talented individual, and I have no doubt that you will continue to excel in all your future endeavors. Congratulations on a job well done!`
