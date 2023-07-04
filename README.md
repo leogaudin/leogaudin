@@ -1,3 +1,5 @@
+🦁
+
 ![Banner](https://i.imgur.com/34dIJXc.gif)
 
 ## 👨🏻‍💻 I'm currently working on...
