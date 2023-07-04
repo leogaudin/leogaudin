@@ -57,6 +57,9 @@
   <a href="https://github.com/leogaudin/fract-ol">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol_bonus_max.webp" />
   </a>
+  <a href="https://github.com/leogaudin/minishell">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" />
+  </a>
 </p>
 <p align="center">
   <img src="https://badge.mediaplus.ma/black/lgaudin?1337Badge=off&UM6P=off" alt="lgaudin's 42 stats" />
