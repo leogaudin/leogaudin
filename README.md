@@ -32,6 +32,7 @@
 </p>
 <h3 align="center">👨🏻‍🏫 Skills I am currently learning</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile%20App%20Dev-0C84C5?style=flat&logo=android&logoColor=white" />
