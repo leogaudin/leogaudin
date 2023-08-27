@@ -1,7 +1,5 @@
 # 🦁
 
-![Banner](https://i.imgur.com/34dIJXc.gif)
-
 ## 👨🏻‍💻 I'm currently working on...
 * 🚀 The [42](https://www.42.fr/) cursus in the Málaga campus
 * 🗺️ A track-and-trace app for humanitary purposes
@@ -60,11 +58,14 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol_bonus_max.webp" />
   </a>
   <a href="https://github.com/leogaudin/minishell">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell_bonus_max.webp" />
   </a>
-</p>
-<p align="center">
-  <img src="https://badge.mediaplus.ma/black/lgaudin?1337Badge=off&UM6P=off" alt="lgaudin's 42 stats" />
+  <a href="https://github.com/leogaudin/philosophers">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers.webp" />
+  </a>
+  <a href="https://github.com/leogaudin/cpp_modules">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp" />
+  </a>
 </p>
 
 ```
