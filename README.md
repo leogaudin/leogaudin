@@ -36,6 +36,7 @@
 </p>
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leogaudin" />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=leogaudin" />
 
 ## 🚀 42
 <p align="center">
