@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
 </p>
 
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leogaudin" />
+
 ## 🚀 42
 <p align="center">
   <a href="https://github.com/leogaudin/libft">
