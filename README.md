@@ -65,6 +65,9 @@
   <a href="https://github.com/leogaudin/philosophers">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers_bonus_max.webp" />
   </a>
+  <a href="https://github.com/leogaudin/cub3d">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp" />
+  </a>
   <a href="https://github.com/leogaudin/cpp_modules">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp" />
   </a>
