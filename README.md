@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 I'm currently working on...
 * 🚀 The [42](https://www.42.fr/) cursus in the Málaga campus
-* 🗺️ A track-and-trace app for humanitary purposes
+* 🗺️ A track-and-trace app for humanitarian purposes
 * 💼 My software development company
 
 ## 💻 Technologies & Tools
