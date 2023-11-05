@@ -74,6 +74,9 @@
   <a href="https://github.com/leogaudin/inception">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp" />
   </a>
+  <a href="https://github.com/leogaudin/webserv">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv.webp" />
+  </a>
 </p>
 
 ```
