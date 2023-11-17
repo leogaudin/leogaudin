@@ -78,4 +78,7 @@
   <a href="https://github.com/leogaudin/webserv">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv_bonus.webp" />
   </a>
+  <a href="https://github.com/leogaudin/ft_transcendence">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence.webp" />
+  </a>
 </p>
