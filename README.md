@@ -70,12 +70,12 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp" />
   </a>
   <a href="https://github.com/leogaudin/net_practice">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice_bonus.webp" />
   </a>
   <a href="https://github.com/leogaudin/inception">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp" />
   </a>
   <a href="https://github.com/leogaudin/webserv">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv.webp" />
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv_bonus.webp" />
   </a>
 </p>
