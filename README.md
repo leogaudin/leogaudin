@@ -2,8 +2,8 @@
 
 ## 👨🏻‍💻 I'm currently working on...
 * 🚀 The [42](https://www.42.fr/) cursus in the Málaga campus
-* 🗺️ A track-and-trace app for humanitarian purposes
-* 💼 My software development company
+* 🌐 Developing and maintaining the World Bank's Track-and-Trace solution
+* 💼 My software development company, [Gaudin IT](https://gaudin.it)
 
 ## 💻 Technologies & Tools
 
