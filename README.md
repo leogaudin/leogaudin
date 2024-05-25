@@ -7,7 +7,6 @@
 
 ## 💻 Technologies & Tools
 
-<h3 align="center">✅ Skills I currently have</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -29,11 +28,6 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-</p>
-<h3 align="center">👨🏻‍🏫 Skills I am currently learning</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
 </p>
 
 ## 🚀 42
