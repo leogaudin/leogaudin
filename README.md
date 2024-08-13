@@ -7,31 +7,6 @@
 * 🌐 Developing and maintaining the World Bank's Track-and-Trace solution
 * 💼 My software development company, [Gaudin IT](https://gaudin.it)
 
-## 💻 Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/UNIX-000000?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-</p>
-
 ## 🚀 42
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D22AQEdhzd9dk6oTg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1721638654339?e=1726704000&v=beta&t=_Rq8REJzlDBTCL4N9Fn-2l3_PwolzOb_kPim2_CI29g" />
