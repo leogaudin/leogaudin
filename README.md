@@ -34,47 +34,5 @@
 
 ## 🚀 42
 <p align="center">
-  <a href="https://github.com/leogaudin/libft">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/get_next_line">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/ft_printf">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf_bonus.webp" />
-  </a>
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp" />
-  <a href="https://github.com/leogaudin/push_swap">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/minitalk">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus_max.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/fract-ol">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol_bonus_max.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/minishell">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell_bonus_max.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/philosophers">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers_bonus_max.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/cub3d">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/cpp_modules">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/net_practice">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice_bonus.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/inception">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/webserv">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv_bonus.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/ft_transcendence">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence.webp" />
-  </a>
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQEdhzd9dk6oTg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1721638654339?e=1726704000&v=beta&t=_Rq8REJzlDBTCL4N9Fn-2l3_PwolzOb_kPim2_CI29g" />
 </p>
