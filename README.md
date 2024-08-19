@@ -3,7 +3,7 @@
 </p>
 
 ## 👨🏻‍💻 I'm currently working on...
-* 🚀 The [42](https://www.42.fr/) cursus in the Málaga campus
+* 🚀 The [42](https://www.42.fr/)Advanced cursus in the Málaga campus
 * 🌐 Developing and maintaining the World Bank's Track-and-Trace solution
 * 💼 My software development company, [Gaudin IT](https://gaudin.it)
 
