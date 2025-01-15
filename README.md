@@ -16,7 +16,7 @@
 
 ## 📄 Resume
 
-Check out my resume [here](https://github.com/leogaudin/resume/).
+Check out my resume [here](https://github.com/leogaudin/resume/blob/main/resume.pdf).
 
 ## 🚀 Current learning objectives
 
