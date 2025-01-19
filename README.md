@@ -5,7 +5,7 @@
 ## 📖 Tutorials
 | Project | Description | Skills |
 | ------- | ----------- | ------ |
-| [multilayer-perceptron](https://github.com/leogaudin/multilayer-perceptron) | Implementing a multilayer perceptron framework. | Python, Math, Machine Learning, Neural Networks |
+| [multilayer_perceptron](https://github.com/leogaudin/multilayer_perceptron) | Implementing a multilayer perceptron framework. | Python, Math, Machine Learning, Neural Networks |
 | [matrix](https://github.com/leogaudin/matrix) | Implementing complete Matrix and Vector classes. | Linear algebra |
 | [dslr](https://github.com/leogaudin/dslr) | Implementing the Hogwarts Sorting Hat. | Python, Math, Machine Learning, Logistic Regression |
 | [ready_set_boole](https://github.com/leogaudin/ready_set_boole) | Learning the basics of boolean algebra, set theory and logic. | Boolean Algebra, Set Theory, Logic |
