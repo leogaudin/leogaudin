@@ -11,6 +11,7 @@
 | [ready_set_boole](https://github.com/leogaudin/ready_set_boole) | Learning the basics of boolean algebra, set theory and logic. | Boolean Algebra, Set Theory, Logic |
 | [ft_linear_regression](https://github.com/leogaudin/ft_linear_regression) | Predicting the price of a car based on its mileage. | Python, Linear Regression, Math, Data Analysis |
 | [libasm](https://github.com/leogaudin/libasm) | Implementing a few functions in Assembly. | CPU Architecture, Assembly Language, x86-64 |
+| [philosophers](https://github.com/leogaudin/philosophers) | Threading a process and managing race conditions, shared memory and mutexes. | C, Forking, Multithreading, Mutexes |
 | [fract-ol](https://github.com/leogaudin/fract-ol) | Implementing a fractal explorer in C. | C, Math, Complex numbers, Fractals, Graphics Programming |
 | [minitalk](https://github.com/leogaudin/minitalk) | Implementing a simple client-server communication program in C. | C, UNIX Signals, Bitwise Operations |
 
