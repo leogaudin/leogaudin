@@ -5,6 +5,7 @@
 ## 📖 Tutorials
 | Project | Description | Skills |
 | ------- | ----------- | ------ |
+| [Learn2Slither](https://github.com/leogaudin/Learn2Slither) | Teach an AI to play Snake. | Python, Reinforcement Learning, Q-Learning, PyTorch |
 | [multilayer-perceptron](https://github.com/leogaudin/multilayer-perceptron) | Implementing a multilayer perceptron framework. | Python, Math, Machine Learning, Neural Networks |
 | [matrix](https://github.com/leogaudin/matrix) | Implementing complete Matrix and Vector classes. | Linear algebra |
 | [dslr](https://github.com/leogaudin/dslr) | Implementing the Hogwarts Sorting Hat. | Python, Math, Machine Learning, Logistic Regression |
